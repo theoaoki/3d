@@ -1,0 +1,5 @@
+w and s change the viewing position in the y-axis
+a and d change the viewing position in the x-axis
+SPACE and v change the viewing position in the z-axis
+j and l rotate the viewing position around the z-axis
+i and k rotate the viewing position around the x-axis
